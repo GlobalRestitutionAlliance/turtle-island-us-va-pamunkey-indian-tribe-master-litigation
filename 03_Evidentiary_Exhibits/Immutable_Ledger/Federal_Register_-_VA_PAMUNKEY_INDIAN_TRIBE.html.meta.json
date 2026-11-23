@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=VA+PAMUNKEY+INDIAN+TRIBE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=VA+PAMUNKEY+INDIAN+TRIBE",
+  "title": "Federal Register - VA PAMUNKEY INDIAN TRIBE",
+  "fetched_at": "2026-11-23T17:36:44.999080Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 190494,
+  "sha256": "e1c26aa413a1d0e54cbe492f95fd539ef7a896d2f2d6c4f2b3285a1dc0f9d069",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
